@@ -7,7 +7,7 @@
  */
  
 void setup() {
-  
+  println("  CCCC   A   L    EEEE BBBB");
 }
 
 void draw() {
