@@ -14,6 +14,10 @@ void setup() {
   println("C       A   A  L     E     B   B");
   println(" C      A   A  L     E     B   B");
   println("  CCCC  A   A  LLLLL EEEE  BBBB");
+  
+  print(" ____________________");
+  println();
+  print("|<><><>  |  |  <><><>|");
 }
 
 void draw() {
