@@ -22,6 +22,9 @@ void setup() {
   println("|<>   .--------.   <>|");
   println("|     |   /\\   |     |");
   println("|     |   \\/   |     |");
+  println("|_____|   /\\   |_____|");
+  println("|     \\   \\/   /     |");
+  println("|------\\  /\\  /------|");
 }
 
 void draw() {
