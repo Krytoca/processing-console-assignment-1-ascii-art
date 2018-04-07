@@ -32,6 +32,9 @@ void setup() {
   println(" \\<>     |  |     <>/");
   println("  \\<>    |  |    <>/");
   println("   \\<>   |  |   <>/");
+  println("    `\\<> |  | <>/'");
+  println("      `-.|  |.-'");
+  println("         '__'");
 }
 
 void draw() {
