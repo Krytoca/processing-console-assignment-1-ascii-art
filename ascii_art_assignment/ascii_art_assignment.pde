@@ -28,6 +28,10 @@ void setup() {
   println("|       \\ \\/ /       |");
   println("|        '..'        |");
   println("|        |  |        |");
+  println(":        |  |        :");
+  println(" \\<>     |  |     <>/");
+  println("  \\<>    |  |    <>/");
+  println("   \\<>   |  |   <>/");
 }
 
 void draw() {
