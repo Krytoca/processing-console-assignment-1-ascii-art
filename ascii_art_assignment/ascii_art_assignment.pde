@@ -25,6 +25,9 @@ void setup() {
   println("|_____|   /\\   |_____|");
   println("|     \\   \\/   /     |");
   println("|------\\  /\\  /------|");
+  println("|       \\ \\/ /       |");
+  println("|        '..'        |");
+  println("|        |  |        |");
 }
 
 void draw() {
